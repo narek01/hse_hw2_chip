@@ -37,8 +37,8 @@ ENCFF002AAR | [pdf](/results/venn21.pdf) | [pdf](/results/venn22.pdf)
 
 1 | 2
 -|-
-![results/result.png]() | ![results/result2.png]()
+![](results/result.png) | ![](results/result2.png)
 
-![results/sample.png]()
+![](results/sample.png)
 
 Как видим, полученное распределение совпадает с теоретическим из статьи.
